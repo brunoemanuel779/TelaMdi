@@ -1,0 +1,10 @@
+E:\Executaveis liberados\TelaMDI\TelaMDI\bin\Debug\TelaMDI.exe.config
+E:\Executaveis liberados\TelaMDI\TelaMDI\bin\Debug\TelaMDI.exe
+E:\Executaveis liberados\TelaMDI\TelaMDI\bin\Debug\TelaMDI.pdb
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.frmPrincipal.resources
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.Properties.Resources.resources
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.csproj.GenerateResource.Cache
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.exe
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.pdb
+E:\Executaveis liberados\TelaMDI\TelaMDI\obj\Debug\TelaMDI.frmCliente.resources
